@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * bubble_sort -  sorting set of n elements
+ * bubble_sort - sorting set of n elements
  * @array: Array of data to be sorted
  * @size: Size of the array
  */
